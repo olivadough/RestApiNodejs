@@ -1,0 +1,22 @@
+{
+  "name": "mynodejsapp",
+  "version": "1.0.0",
+  "description": "A simple node app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivadough/RestApiNodejs.git"
+  },
+  "author": "Oliver Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivadough/RestApiNodejs/issues"
+  },
+  "homepage": "https://github.com/olivadough/RestApiNodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
